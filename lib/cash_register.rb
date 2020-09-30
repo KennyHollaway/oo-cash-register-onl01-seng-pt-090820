@@ -22,5 +22,6 @@ class CashRegister
     @total
   end
   
-  def apply_dicount
+  def apply_dicount()
+    
 end

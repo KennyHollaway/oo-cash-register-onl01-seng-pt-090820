@@ -21,4 +21,6 @@ class CashRegister
     @last_transaction_amount = @total
     @total
   end
+  
+  def apply_dicount
 end
